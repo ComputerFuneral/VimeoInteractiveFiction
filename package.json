@@ -1,0 +1,19 @@
+{
+  "name": "creator-labs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "aframe-mouse-cursor-component": "^0.5.2",
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "jsx-loader": "^0.13.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "vimeo": "^1.2.1",
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack && node server.js"
+  }
+}
