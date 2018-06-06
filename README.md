@@ -2,7 +2,7 @@
 
 ##  Concept
 
-This project aims to provide a simple front-end interface that lets users create an interactive, "choose-your-own-adventure" style VR experience with near-zero effort. This minimum-viable demonstration exposes a React component, **VimeoInteractiveFiction**, which accepts as its property a simple Javascript object which describes in ~⭐️judicious brevity⭐️~ all the data needed to render a simple interactive fiction project with minimual setup. 
+This project aims to provide a simple front-end interface that lets users create an interactive, "choose-your-own-adventure" style VR experience with near-zero effort. This minimum-viable demonstration exposes a React component, **VimeoInteractiveFiction**, which accepts as its property a simple Javascript object which describes in ⭐️judicious brevity⭐️ all the data needed to render a simple interactive fiction project with minimual setup. 
 
 At a much higher level, my goal was to:
 
